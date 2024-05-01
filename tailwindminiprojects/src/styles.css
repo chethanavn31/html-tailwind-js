@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.displaydpd{
+    @apply top-[84px] right-0 left-0;
+}
